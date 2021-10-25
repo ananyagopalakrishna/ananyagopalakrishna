@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ananyagopalakrishna
-- 👀 I’m interested in Machine Learning, computer vision and deep learning
+- 👀 I’m interested in building my knowledge in mainstream industry requirements
 - 🌱 I’m currently learning engineering in computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Ananya Gopalakrishna on LinkedIn
